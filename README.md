@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TP Jenkins : MultiBranch Pipeline
 
 **Réalisé par :**Chaimae Bouhamla 
@@ -25,3 +26,7 @@ Le log confirme que Maven a bien téléchargé les dépendances et compilé le p
 ## 4. Difficultés rencontrées et solutions
 Durant ce TP, j'ai rencontré une erreur `UnknownHostException` (problème de DNS Docker) qui empêchait Jenkins de se connecter à Internet.
 **Solution :** J'ai configuré le fichier `daemon.json` de Docker pour utiliser le DNS `8.8.8.8`, ce qui a permis de résoudre le problème et de valider le pipeline.# MultiBranchPipeLine-ChaimaeBouhamla
+=======
+# MultiBranchPipeLine-ChaimaeBouhamla
+testduwebhookjenjins ok.
+
